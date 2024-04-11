@@ -1,0 +1,44 @@
+# Copyright (C) 2024 Joakim Tveter
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Kodeverftet Blocks 0.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/kodeverftet-"
+"blocks\n"
+"Last-Translator: \n"
+"Language-Team: Norwegian (Bokmål)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-11T21:12:16+00:00\n"
+"PO-Revision-Date: 2024-04-11 21:19+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: kodeverftet-blocks\n"
+"Language: nb_NO\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.6.7; wp-6.5.2"
+
+#. Plugin Name of the plugin
+#: kodeverftet-blocks.php
+msgid "Kodeverftet Blocks"
+msgstr "Kodeverftet Blokker"
+
+#. Plugin URI of the plugin
+#: kodeverftet-blocks.php
+msgid "https://github.com/joakimtveter/kodeverftet-wp-blocks"
+msgstr "https://github.com/joakimtveter/kodeverftet-wp-blocks"
+
+#. Description of the plugin
+#: kodeverftet-blocks.php
+msgid "WordPress Blocks for a section based opinionated experience."
+msgstr "WordPress blokker for en seksjonsbasert meningsfylt opplevelse."
+
+#. Author of the plugin
+#: kodeverftet-blocks.php
+msgid "Joakim Tveter"
+msgstr "Joakim Tveter"
+
+#. Author URI of the plugin
+#: kodeverftet-blocks.php
+msgid "https://joakimtveter.no/"
+msgstr "https://joakimtveter.no/"
