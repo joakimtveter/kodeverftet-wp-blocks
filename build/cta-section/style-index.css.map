@@ -1,0 +1,1 @@
+{"version":3,"file":"cta-section/style-index.css","mappings":";;;AACA;EACC;EACA;EACA;AAAD;AAEC;EACC;AAAF,C","sources":["webpack://kodeverftet-blocks/./src/cta-section/style.scss"],"sourcesContent":["\n.wp-block-kodeverftet-blocks-cta-section {\n\tbackground-color: yellow;\n\tcolor: #fff;\n\tpadding: 2px;\n\n\t.title {\n\t\tcolor: hotpink;\n\t}\n}\n\n"],"names":[],"sourceRoot":""}
